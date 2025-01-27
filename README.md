@@ -1,2 +1,3 @@
 # BOOTCAMP
-Always Happy
+Always be Happy
+
